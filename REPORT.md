@@ -128,13 +128,3 @@ a low-turnover trend-following strategy avoids.
 ## Tech Stack
 
 Python · Pandas · NumPy · Matplotlib · yfinance · vnstock
-
-## Suggested CV Line
-
-> Built a Python backtesting framework for quantitative trading strategies
-> (SMA Crossover, RSI, Bollinger Bands) across US and Vietnam equities with
-> lookahead-bias-free execution and transaction cost modeling. Found strategy
-> performance is regime-dependent: mean-reversion outperformed Buy & Hold on
-> a declining asset (VNM, +2.75% CAGR vs -6.36%), while SMA Crossover
-> achieved a higher risk-adjusted return (Sharpe 0.85 vs 0.78) than Buy &
-> Hold on a trending asset (FPT) by reducing volatility and drawdown.
